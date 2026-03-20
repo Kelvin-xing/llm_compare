@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+evaluations.db
+*.xlsx
+.DS_Store

@@ -1,3 +1,14 @@
+---
+title: LLM Compare
+emoji: 🔍
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+sdk_version: "6.9.0"
+app_file: app.py
+pinned: false
+---
+
 # LLM Compare
 
 A Gradio web app for side-by-side LLM comparison. Compare your own model (via any OpenAI-compatible API endpoint) against reference models from OpenAI, Anthropic, Google Gemini, Qwen, and Yi.
