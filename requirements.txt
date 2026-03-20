@@ -1,0 +1,5 @@
+gradio
+openai
+anthropic
+google-genai
+openpyxl
